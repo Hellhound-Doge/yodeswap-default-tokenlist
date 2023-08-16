@@ -23,6 +23,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x16F7d26972dC50736C6b568Cf84E3E821226a8Af",
+            "name": "DogeDollar LP",
+            "symbol": "RC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/hellhound-doge/yodeswap-default-tokenlist/main/assets/dogechain/0x16F7d26972dC50736C6b568Cf84E3E821226a8Af/logo.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xCF22f35C00dB5eA7ED94da6c176fB488E5dAd9cd",
             "name": "HellHound",
             "symbol": "HLH",
